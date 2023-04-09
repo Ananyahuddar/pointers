@@ -4,9 +4,8 @@ C Pointers
 
 The pointer in C language is a variable which stores the address of another variable. This variable can be of type int, char, array, function, or any other pointer. The size of the pointer depends on the architecture. However, in 32-bit architecture the size of a pointer is 2 byte.
 
-Consider the following example to define a pointer which stores the address of an integer.
 
-Declaring a pointer
+# Declaring a pointer
 
 The pointer in c language can be declared using * (asterisk symbol). It is also known as indirection pointer used to dereference a pointer.
 Advantage of pointer
@@ -17,7 +16,7 @@ Advantage of pointer
 
 3) It makes you able to access any memory location in the computer's memory.
 
-Usage of pointer
+# Usage of pointer
 
 There are many applications of pointers in c language.
 
